@@ -36,7 +36,8 @@
     url = https://github.com/vgteam/gfakluge.git
 [submodule "deps/DYNAMIC"]
 	path = deps/DYNAMIC
-	url = https://github.com/vgteam/DYNAMIC
+	url = https://github.com/deliciouslytyped/DYNAMIC
+	branch = submodulize-hopscotch
 [submodule "deps/raptor"]
 	path = deps/raptor
 	url = https://github.com/vgteam/raptor.git
